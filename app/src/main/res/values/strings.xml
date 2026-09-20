@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">چوب‌خط</string>
+    <string name="hint_message">پیام خود را بنویسید…</string>
+    <string name="send">ارسال</string>
+    <string name="settings">تنظیمات</string>
+    <string name="server_address">آدرس سرور</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">انصراف</string>
+    <string name="connecting">در حال اتصال…</string>
+    <string name="error">خطا</string>
+    <string name="welcome">سلام! من چوب‌خط هستم. چه کاری می‌توانم انجام دهم؟</string>
+</resources>

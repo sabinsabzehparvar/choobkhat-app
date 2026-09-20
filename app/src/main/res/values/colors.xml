@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- برند: قهوه‌ای چوب‌خط -->
+    <color name="brand">#6D4C41</color>
+    <color name="brand_dark">#4E342E</color>
+    <color name="on_brand">#FFFFFF</color>
+
+    <!-- تم تاریک -->
+    <color name="bg">#121212</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="input_bg">#2A2A2A</color>
+    <color name="border">#3A3A3A</color>
+    <color name="on_bg">#EAEAEA</color>
+    <color name="hint">#888888</color>
+    <color name="bubble_ai">#2A2A2A</color>
+</resources>

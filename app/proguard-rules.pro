@@ -1,0 +1,1 @@
+# Choobkhat proguard rules
